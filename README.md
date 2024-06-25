@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddahhliaa
 - 👀 I’m interested in ...biochemical research
-- 🌱 I’m currently learning ...how to organize biochemistry data
+- 🌱 I’m currently learning ...how to organize and analyze biochemistry data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...djohnson237@wisc.edu
 - 😄 Pronouns: ...she/her/hers
